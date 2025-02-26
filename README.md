@@ -1,4 +1,4 @@
-## Fabric---ESRI# 🚀 MSLA AI Project: Ecuador 2024 Fire  
+## Fabric---ESRI# 🚀 MSLA AI Project: Ecuador 2024 Fires  
 
 ## 🌍 Opportunity: Pre-and-Post Fire Risk in Global Communities  
 
