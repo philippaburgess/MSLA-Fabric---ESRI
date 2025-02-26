@@ -62,7 +62,7 @@ An **AI chatbot** using **Azure OpenAI & Power Virtual Agents** could enhance ad
 
 ### 📍 Mentorship & Partnerships
 - **Advised by Philippa’s mentors** from **USGS EROS Center – Wildland Fire Support**.
-- **Manuel & Philippa** coordinated a **USC & UTM partnership** to expand research, engage local governments & NGOs, and pursue funding opportunities.
+-  **Manuel & Philippa** coordinated a **University of Southern California (USC) & Universidad Técnica de Manabí (UTM)** partnership to expand research, engage local governments & NGOs, and pursue funding opportunities.
 - Applied for **NASA Lifelines** (67 applicants – 12 accepted, not awarded but received high compliments on application) & another grant (pending).
 
 ### 📍 Expanding AI + GIS Capabilities
